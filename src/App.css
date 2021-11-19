@@ -1,0 +1,11 @@
+.mainLayout .mainHeader {
+  background-color: white;
+}
+
+/* Hero */
+.heroBlock {
+  background: url("assets/images/slider/1.jpg") no-repeat;
+  background-position: 50% 100%;
+  background-size: cover;
+  height: 100vh;
+}
